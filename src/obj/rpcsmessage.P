@@ -8,12 +8,12 @@ obj/rpcsmessage.o: rpcsmessage.cpp main.h core.h uint256.h serialize.h \
  rpcprotocol.h json/json_spirit_reader_template.h \
  json/json_spirit_value.h json/json_spirit_error_position.h \
  json/json_spirit_utils.h json/json_spirit_writer_template.h smessage.h \
- /home/pskbank/SumWork/src/leveldb/include/leveldb/db.h \
- /home/pskbank/SumWork/src/leveldb/include/leveldb/iterator.h \
- /home/pskbank/SumWork/src/leveldb/include/leveldb/slice.h \
- /home/pskbank/SumWork/src/leveldb/include/leveldb/status.h \
- /home/pskbank/SumWork/src/leveldb/include/leveldb/options.h \
- /home/pskbank/SumWork/src/leveldb/include/leveldb/write_batch.h db.h \
+ /home/pskbank/first/src/leveldb/include/leveldb/db.h \
+ /home/pskbank/first/src/leveldb/include/leveldb/iterator.h \
+ /home/pskbank/first/src/leveldb/include/leveldb/slice.h \
+ /home/pskbank/first/src/leveldb/include/leveldb/status.h \
+ /home/pskbank/first/src/leveldb/include/leveldb/options.h \
+ /home/pskbank/first/src/leveldb/include/leveldb/write_batch.h db.h \
  wallet.h walletdb.h crypter.h ui_interface.h lz4/lz4.h base58.h init.h
 rpcsmessage.cpp main.h core.h uint256.h serialize.h :
  allocators.h version.h clientversion.h util.h tinyformat.h script.h :
@@ -25,10 +25,10 @@ rpcsmessage.cpp main.h core.h uint256.h serialize.h :
  rpcprotocol.h json/json_spirit_reader_template.h :
  json/json_spirit_value.h json/json_spirit_error_position.h :
  json/json_spirit_utils.h json/json_spirit_writer_template.h smessage.h :
- /home/pskbank/SumWork/src/leveldb/include/leveldb/db.h :
- /home/pskbank/SumWork/src/leveldb/include/leveldb/iterator.h :
- /home/pskbank/SumWork/src/leveldb/include/leveldb/slice.h :
- /home/pskbank/SumWork/src/leveldb/include/leveldb/status.h :
- /home/pskbank/SumWork/src/leveldb/include/leveldb/options.h :
- /home/pskbank/SumWork/src/leveldb/include/leveldb/write_batch.h db.h :
+ /home/pskbank/first/src/leveldb/include/leveldb/db.h :
+ /home/pskbank/first/src/leveldb/include/leveldb/iterator.h :
+ /home/pskbank/first/src/leveldb/include/leveldb/slice.h :
+ /home/pskbank/first/src/leveldb/include/leveldb/status.h :
+ /home/pskbank/first/src/leveldb/include/leveldb/options.h :
+ /home/pskbank/first/src/leveldb/include/leveldb/write_batch.h db.h :
  wallet.h walletdb.h crypter.h ui_interface.h lz4/lz4.h base58.h init.h :

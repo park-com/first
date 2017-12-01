@@ -9,12 +9,12 @@ obj/rpcrawtransaction.o: rpcrawtransaction.cpp base58.h chainparams.h \
  hashblock.h sph_blake.h sph_types.h sph_bmw.h sph_groestl.h sph_jh.h \
  sph_keccak.h sph_skein.h sph_luffa.h sph_cubehash.h sph_shavite.h \
  sph_simd.h sph_echo.h \
- /home/pskbank/SumWork/src/leveldb/include/leveldb/db.h \
- /home/pskbank/SumWork/src/leveldb/include/leveldb/iterator.h \
- /home/pskbank/SumWork/src/leveldb/include/leveldb/slice.h \
- /home/pskbank/SumWork/src/leveldb/include/leveldb/status.h \
- /home/pskbank/SumWork/src/leveldb/include/leveldb/options.h \
- /home/pskbank/SumWork/src/leveldb/include/leveldb/write_batch.h init.h \
+ /home/pskbank/first/src/leveldb/include/leveldb/db.h \
+ /home/pskbank/first/src/leveldb/include/leveldb/iterator.h \
+ /home/pskbank/first/src/leveldb/include/leveldb/slice.h \
+ /home/pskbank/first/src/leveldb/include/leveldb/status.h \
+ /home/pskbank/first/src/leveldb/include/leveldb/options.h \
+ /home/pskbank/first/src/leveldb/include/leveldb/write_batch.h init.h \
  wallet.h walletdb.h db.h crypter.h ui_interface.h
 rpcrawtransaction.cpp base58.h chainparams.h :
  bignum.h serialize.h allocators.h version.h clientversion.h uint256.h :
@@ -27,10 +27,10 @@ rpcrawtransaction.cpp base58.h chainparams.h :
  hashblock.h sph_blake.h sph_types.h sph_bmw.h sph_groestl.h sph_jh.h :
  sph_keccak.h sph_skein.h sph_luffa.h sph_cubehash.h sph_shavite.h :
  sph_simd.h sph_echo.h :
- /home/pskbank/SumWork/src/leveldb/include/leveldb/db.h :
- /home/pskbank/SumWork/src/leveldb/include/leveldb/iterator.h :
- /home/pskbank/SumWork/src/leveldb/include/leveldb/slice.h :
- /home/pskbank/SumWork/src/leveldb/include/leveldb/status.h :
- /home/pskbank/SumWork/src/leveldb/include/leveldb/options.h :
- /home/pskbank/SumWork/src/leveldb/include/leveldb/write_batch.h init.h :
+ /home/pskbank/first/src/leveldb/include/leveldb/db.h :
+ /home/pskbank/first/src/leveldb/include/leveldb/iterator.h :
+ /home/pskbank/first/src/leveldb/include/leveldb/slice.h :
+ /home/pskbank/first/src/leveldb/include/leveldb/status.h :
+ /home/pskbank/first/src/leveldb/include/leveldb/options.h :
+ /home/pskbank/first/src/leveldb/include/leveldb/write_batch.h init.h :
  wallet.h walletdb.h db.h crypter.h ui_interface.h :

@@ -1,4 +1,4 @@
 obj/version.o: version.cpp version.h clientversion.h \
- /home/pskbank/SumWork/src/obj/build.h
+ /home/pskbank/first/src/obj/build.h
 version.cpp version.h clientversion.h :
- /home/pskbank/SumWork/src/obj/build.h :
+ /home/pskbank/first/src/obj/build.h :
